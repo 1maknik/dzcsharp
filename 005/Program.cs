@@ -14,4 +14,4 @@ if (a < b) a = b;
 
 if (a < c) a = c;
 
-Console. WriteLine ("Max = {0}", a) ;
+Console. WriteLine($"Max = {(object)a}");
