@@ -1,0 +1,15 @@
+D:\GeekBrains2022\dzcsharp\055\bin\Debug\net6.0\055.exe
+D:\GeekBrains2022\dzcsharp\055\bin\Debug\net6.0\055.deps.json
+D:\GeekBrains2022\dzcsharp\055\bin\Debug\net6.0\055.runtimeconfig.json
+D:\GeekBrains2022\dzcsharp\055\bin\Debug\net6.0\055.dll
+D:\GeekBrains2022\dzcsharp\055\bin\Debug\net6.0\055.pdb
+D:\GeekBrains2022\dzcsharp\055\obj\Debug\net6.0\055.csproj.AssemblyReference.cache
+D:\GeekBrains2022\dzcsharp\055\obj\Debug\net6.0\055.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains2022\dzcsharp\055\obj\Debug\net6.0\055.AssemblyInfoInputs.cache
+D:\GeekBrains2022\dzcsharp\055\obj\Debug\net6.0\055.AssemblyInfo.cs
+D:\GeekBrains2022\dzcsharp\055\obj\Debug\net6.0\055.csproj.CoreCompileInputs.cache
+D:\GeekBrains2022\dzcsharp\055\obj\Debug\net6.0\055.dll
+D:\GeekBrains2022\dzcsharp\055\obj\Debug\net6.0\refint\055.dll
+D:\GeekBrains2022\dzcsharp\055\obj\Debug\net6.0\055.pdb
+D:\GeekBrains2022\dzcsharp\055\obj\Debug\net6.0\055.genruntimeconfig.cache
+D:\GeekBrains2022\dzcsharp\055\obj\Debug\net6.0\ref\055.dll
