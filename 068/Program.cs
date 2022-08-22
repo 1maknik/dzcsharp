@@ -1,4 +1,4 @@
-﻿nt m = InputNumbers("Введите m: ");
+﻿int m = InputNumbers("Введите m: ");
 int n = InputNumbers("Введите n: ");
 
 int functionAkkerman = Ack(m, n);
