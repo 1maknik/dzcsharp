@@ -1,0 +1,15 @@
+D:\GeekBrains2022\dzcsharp\funAck\bin\Debug\net6.0\funAck.exe
+D:\GeekBrains2022\dzcsharp\funAck\bin\Debug\net6.0\funAck.deps.json
+D:\GeekBrains2022\dzcsharp\funAck\bin\Debug\net6.0\funAck.runtimeconfig.json
+D:\GeekBrains2022\dzcsharp\funAck\bin\Debug\net6.0\funAck.dll
+D:\GeekBrains2022\dzcsharp\funAck\bin\Debug\net6.0\funAck.pdb
+D:\GeekBrains2022\dzcsharp\funAck\obj\Debug\net6.0\funAck.csproj.AssemblyReference.cache
+D:\GeekBrains2022\dzcsharp\funAck\obj\Debug\net6.0\funAck.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains2022\dzcsharp\funAck\obj\Debug\net6.0\funAck.AssemblyInfoInputs.cache
+D:\GeekBrains2022\dzcsharp\funAck\obj\Debug\net6.0\funAck.AssemblyInfo.cs
+D:\GeekBrains2022\dzcsharp\funAck\obj\Debug\net6.0\funAck.csproj.CoreCompileInputs.cache
+D:\GeekBrains2022\dzcsharp\funAck\obj\Debug\net6.0\funAck.dll
+D:\GeekBrains2022\dzcsharp\funAck\obj\Debug\net6.0\refint\funAck.dll
+D:\GeekBrains2022\dzcsharp\funAck\obj\Debug\net6.0\funAck.pdb
+D:\GeekBrains2022\dzcsharp\funAck\obj\Debug\net6.0\funAck.genruntimeconfig.cache
+D:\GeekBrains2022\dzcsharp\funAck\obj\Debug\net6.0\ref\funAck.dll
